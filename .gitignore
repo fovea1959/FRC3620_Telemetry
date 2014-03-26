@@ -1,0 +1,6 @@
+/FRC3620TelemetryCollection/nbproject/private/
+/FRC3620TelemetryProcessing/nbproject/private/
+/FRC3620TelemetryCollection/*.txt
+/FRC3620TelemetryCollection/*.csv
+/FRC3620TelemetryProcessing/*.txt
+/FRC3620TelemetryProcessing/*.csv
